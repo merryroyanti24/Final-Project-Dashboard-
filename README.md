@@ -26,14 +26,15 @@ Additional data like customer information, seller details, and geolocation data 
 3. **Exploratory Data Analysis (EDA)**: Answering business questions through data visualizations.
 4. **Dashboard Creation**: Using **Streamlit** to create an interactive dashboard that visualizes the key findings.
 
-
 ## How to Run
-### Running Locally
+## Running Locally
+
 1. Clone the repository to your local machine.
-2. Run the dashboard locally using Streamlit:
-   ```bash
-   streamlit run dashboard/dashboard.py
-   ```
+2. Install the required dependencies:
+pip install -r requirements.txt
+3. Run the dashboard locally using Streamlit:
+streamlit run dashboard/dashboard.py
+Open the provided URL in your browser to interact with the dashboard.
 
 ## Requirements
 The following libraries are required to run the analysis and dashboard:
