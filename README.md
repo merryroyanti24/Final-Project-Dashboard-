@@ -30,11 +30,7 @@ Additional data like customer information, seller details, and geolocation data 
 ## How to Run
 ### Running Locally
 1. Clone the repository to your local machine.
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the dashboard locally using Streamlit:
+2. Run the dashboard locally using Streamlit:
    ```bash
    streamlit run dashboard/dashboard.py
    ```
@@ -49,4 +45,3 @@ The following libraries are required to run the analysis and dashboard:
 ## Acknowledgments
 Special thanks to **Dicoding** for providing the dataset and guidance throughout this project.
 
----
