@@ -34,6 +34,7 @@ Additional data like customer information, seller details, and geolocation data 
 pip install -r requirements.txt
 3. Run the dashboard locally using Streamlit:
 streamlit run dashboard/dashboard.py
+
 Open the provided URL in your browser to interact with the dashboard.
 
 ## Requirements
